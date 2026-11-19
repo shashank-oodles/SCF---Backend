@@ -1,0 +1,49 @@
+{
+  "titles": [
+    {
+      "titleId": "prime-title-001",
+      "title": "FROM — Season 1",
+      "provider": "prime-video",
+      "matchPatterns": [
+        "0PJOEQP0TDQYZOPE26KJ7EXXG1",
+        "/detail/0PJOEQP0TDQYZOPE26KJ7EXXG1",
+        "FROM - Season 1",
+        "FROM — Season 1",
+        "From",
+        "Choosing Day",
+        "S1 E3",
+        "Long Day's Journey Into Night"
+      ],
+      "filters": [
+        {
+          "id": "filter-001",
+          "start": 120,
+          "end": 135,
+          "action": "mute",
+          "label": "Mute interval (2:00 – 2:15)"
+        },
+        {
+          "id": "filter-002",
+          "start": 240,
+          "end": 255,
+          "action": "skip",
+          "label": "Skip interval (4:00 – 4:15)"
+        },
+        {
+          "id": "filter-003",
+          "start": 360,
+          "end": 375,
+          "action": "mute",
+          "label": "Mute interval (6:00 – 6:15)"
+        },
+        {
+          "id": "filter-004",
+          "start": 480,
+          "end": 510,
+          "action": "skip",
+          "label": "Skip interval (8:00 – 8:30)"
+        }
+      ]
+    }
+  ]
+}
