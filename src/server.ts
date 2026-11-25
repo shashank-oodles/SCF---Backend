@@ -30,7 +30,7 @@ app.use(
 
       callback(new Error(`CORS blocked for origin: ${origin}`));
     },
-    methods: ['GET', 'OPTIONS'],
+    methods: ['GET', 'POST', 'PUT', 'OPTIONS'],
   })
 );
 app.use(express.json());

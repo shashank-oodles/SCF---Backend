@@ -4,7 +4,7 @@ import path from 'path';
 dotenv.config({ path: path.resolve(process.cwd(), '.env') });
 
 function parseCorsOrigins(value: string | undefined): (string | RegExp)[] {
-  const defaults = ['http://localhost:5173', 'http://localhost:3000'];
+  const defaults = ['http://localhost:3000', 'chrome-extension://*'];
   const parts = (value ?? defaults.join(','))
     .split(',')
     .map((s) => s.trim())
