@@ -1,3 +1,215 @@
 {
-  "titles": []
+  "titles": [
+    {
+      "titleId": "campus-diaries",
+      "title": "Campus Diaries",
+      "kind": "movie",
+      "gti": "amzn1.dv.gti.2fbfe282-a3a5-482d-b570-dfc4207fe6b3",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0HZDL8XBXUA64O92IHI8L9XEWJ?jic=44%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9uEgRzdm9k&ref_=atv_tv_hom_c_tMqdDs_brws_2_1",
+      "matchPatterns": [
+        "amzn1.dv.gti.2fbfe282-a3a5-482d-b570-dfc4207fe6b3"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795597510770",
+          "start": 180,
+          "end": 300,
+          "action": "skip"
+        },
+        {
+          "id": "filter-1795597552371",
+          "start": 315,
+          "end": 325,
+          "action": "mute"
+        }
+      ]
+    },
+    {
+      "titleId": "campus-diaries-s1-e5-campus-diaries-ep-5",
+      "title": "Campus Diaries",
+      "kind": "show",
+      "episodeName": "S1 E5 · Campus Diaries EP 5",
+      "gti": "amzn1.dv.gti.0f97727b-4bae-44c4-bcb4-1fe909f6c689",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0HZDL8XBXUA64O92IHI8L9XEWJ?jic=8%7CEgNhbGw%3D&ref_=atv_hm_hom_c_GBvRz7_2_1",
+      "matchPatterns": [
+        "amzn1.dv.gti.0f97727b-4bae-44c4-bcb4-1fe909f6c689"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795604010946",
+          "start": 240,
+          "end": 300,
+          "action": "skip"
+        },
+        {
+          "id": "filter-1795604037742",
+          "start": 480,
+          "end": 720,
+          "action": "mute"
+        }
+      ]
+    },
+    {
+      "titleId": "casino-royale",
+      "title": "Casino Royale",
+      "kind": "movie",
+      "gti": "amzn1.dv.gti.67d67132-66a8-46fb-9b4d-3ebe25602945",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0LAX0XFANPXMFOTVAFV5H0LD1H?jic=44%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9uEgRzdm9k&ref_=atv_mv_hom_c_zbfcqv_brws_2_3",
+      "matchPatterns": [
+        "amzn1.dv.gti.67d67132-66a8-46fb-9b4d-3ebe25602945"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795604485199",
+          "start": 240,
+          "end": 300,
+          "action": "skip"
+        },
+        {
+          "id": "filter-1795604511576",
+          "start": 315,
+          "end": 720,
+          "action": "mute"
+        }
+      ]
+    },
+    {
+      "titleId": "campus-diaries-1",
+      "title": "Campus Diaries",
+      "kind": "movie",
+      "gti": "amzn1.dv.gti.aabeaac9-50e7-452c-a456-5a5851cfccf0",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0P9IKBTDA0C9RKVMN72D348HYO?jic=8%7CEgRzdm9k&ref_=atv_tv_hom_c_Z7fSsb_brws_3_2",
+      "matchPatterns": [
+        "amzn1.dv.gti.aabeaac9-50e7-452c-a456-5a5851cfccf0"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795676897353",
+          "start": 600,
+          "end": 720,
+          "action": "skip"
+        },
+        {
+          "id": "filter-1795676909891",
+          "start": 780,
+          "end": 1200,
+          "action": "mute"
+        },
+        {
+          "id": "filter-1795678184631",
+          "start": 360,
+          "end": 600,
+          "action": "skip"
+        }
+      ]
+    },
+    {
+      "titleId": "campus-diaries-2",
+      "title": "Campus Diaries",
+      "kind": "show",
+      "gti": "amzn1.dv.gti.e106b969-c957-41ba-a16e-c35cbcf0b69c",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0P9IKBTDA0C9RKVMN72D348HYO?jic=44%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9uEgRzdm9k&ref_=atv_tv_hom_c_OB4062bb_brws_2_1",
+      "matchPatterns": [
+        "amzn1.dv.gti.e106b969-c957-41ba-a16e-c35cbcf0b69c"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795677300825",
+          "start": 600,
+          "end": 780,
+          "action": "mute"
+        }
+      ],
+      "episodeName": "S2 E5 · Choices"
+    },
+    {
+      "titleId": "campus-diaries-s2-e9-closure",
+      "title": "Campus Diaries",
+      "kind": "show",
+      "gti": "amzn1.dv.gti.ae76be09-f4cb-4f72-85b8-4a9c38d634c1",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0P9IKBTDA0C9RKVMN72D348HYO?jic=8%7CEgRzdm9k&ref_=atv_tv_hom_c_LMnUKb_brws_2_2",
+      "matchPatterns": [
+        "amzn1.dv.gti.ae76be09-f4cb-4f72-85b8-4a9c38d634c1"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795677508195",
+          "start": 300,
+          "end": 600,
+          "action": "skip"
+        }
+      ],
+      "episodeName": "S2 E9 · Closure"
+    },
+    {
+      "titleId": "the-vvaan-force-of-the-forrest",
+      "title": "The Vvaan: Force of the Forrest",
+      "kind": "movie",
+      "gti": "amzn1.dv.gti.901d2a1a-017c-495d-a3ce-9c2426255aeb",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0NOR9X5XVBQF6R6EULLBQUP4VF?jic=8%7CEgNhbGw%3D&ref_=atv_hm_hom_c_GBvRz7_2_2",
+      "matchPatterns": [
+        "amzn1.dv.gti.901d2a1a-017c-495d-a3ce-9c2426255aeb"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795678875069",
+          "start": 600,
+          "end": 720,
+          "action": "mute"
+        }
+      ]
+    },
+    {
+      "titleId": "from-s2-e1-strangers-in-a-strange-land",
+      "title": "From",
+      "kind": "show",
+      "episodeName": "S2 E1 · Strangers in a Strange Land",
+      "gti": "amzn1.dv.gti.d7ac595e-bde5-4f43-bcd4-b0aa3a1bad01",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0FZYTOS6R6E9XEGP5GH6H4Y0M4?ref_=atv_sr_fle_c_sr9fee6d_pvsearchresults_1_1",
+      "matchPatterns": [
+        "amzn1.dv.gti.d7ac595e-bde5-4f43-bcd4-b0aa3a1bad01"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795712588727",
+          "start": 660,
+          "end": 900,
+          "action": "skip"
+        },
+        {
+          "id": "filter-1795712601672",
+          "start": 960,
+          "end": 1200,
+          "action": "mute"
+        }
+      ]
+    },
+    {
+      "titleId": "dune",
+      "title": "Dune",
+      "kind": "movie",
+      "gti": "amzn1.dv.gti.a8025548-3908-4562-8896-8fffd945cfb6",
+      "provider": "prime-video",
+      "videoUrl": "https://www.primevideo.com/region/eu/detail/0P3ONZ4IHQ75ZC4ZMIZ9D4NE7Q?jic=44%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9uEgRzdm9k&ref_=atv_mv_hom_c_zbfcqv_brws_2_3",
+      "matchPatterns": [
+        "amzn1.dv.gti.a8025548-3908-4562-8896-8fffd945cfb6"
+      ],
+      "filters": [
+        {
+          "id": "filter-1795712703114",
+          "start": 180,
+          "end": 300,
+          "action": "skip"
+        }
+      ]
+    }
+  ]
 }
